@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1607613408 source:c:\users\crisi\onedrive\desktop\proiect 3 poo\main.cpp
+	<iostream>
+	<ctype.h>
+	<cstring>
+	<stdlib.h>
+	<typeinfo>
+	<vector>
+
+1607700134 source:c:\users\crisi\onedrive\desktop\facultate\anul 2\poo\lab\proiect 3 poo\2533_ulmeanu_cristian_11.cpp
+	<iostream>
+	<ctype.h>
+	<cstring>
+	<stdlib.h>
+	<typeinfo>
+	<vector>
+
